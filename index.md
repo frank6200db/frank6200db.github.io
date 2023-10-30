@@ -1,6 +1,6 @@
-# Welcome to My GitHub Homepage
+# Welcome to Frank Wu's Homepage
 
-Hello! I'm Qinchen Wu Frank, and this is my personal homepage.
+Hello! I'm Qinchen Wu Frank, and this is my personal website.
 
 <img src="https://github.com/frank6200db/frank6200db.github.io/raw/main/Durham.jpg"  alt="Alt Text" width="300" height="200">
 
@@ -10,7 +10,7 @@ Hello! I'm Qinchen Wu Frank, and this is my personal homepage.
 
 ## Research Interests
 
-My research interests include:
+My research interest lies in:
 - GUI understanding in long instructional videos.
 - Data synthesis.
 
