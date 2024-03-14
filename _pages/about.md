@@ -19,5 +19,5 @@ redirect_from:
 - LL(V)M based agent
 
 ## Publications at a Glance
-- <img align="left" src="/images/assistgui.png" width="300" height="130"/>
+- <img align="left" src="/images/assistgui.png" width="260" height="130"/>
    *CVPR 2024 accepted paper*, Pioneer AI Assistant for Graphical User Interface (GUI) which can assist users in completing complex tasks, boosting human productivity. Our paper are available at [arxiv](https://arxiv.org/abs/2312.13108)
