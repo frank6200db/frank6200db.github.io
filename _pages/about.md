@@ -20,4 +20,4 @@ redirect_from:
 
 ## Publications at a Glance
 - <img align="left" src="/images/assistgui.png" width="260" height="130"/>
-   *CVPR 2024 accepted paper*, Pioneer AI Assistant for Graphical User Interface (GUI) which can assist users in completing complex tasks, boosting human productivity. Our paper are available at [arxiv](https://arxiv.org/abs/2312.13108)
+   *CVPR 2024 accepted paper*, **collaborator** Pioneer AI Assistant for Graphical User Interface (GUI) which can assist users in completing complex tasks, boosting human productivity. More details are available at [arxiv](https://arxiv.org/abs/2312.13108)
