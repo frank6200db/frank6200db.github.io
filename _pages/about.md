@@ -15,8 +15,8 @@ redirect_from:
 
 ## Research Interests
 - Vision and Language
-- Track Anything model
-- LL(V)M based agent
+- LL(V)M based Agent
+- GUI Video Understanding
 
 ## Publications at a Glance
 - <img align="left" src="/images/assistgui.png" width="260" height="130"/>
