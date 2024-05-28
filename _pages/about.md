@@ -16,7 +16,7 @@ redirect_from:
 ## Research Interests
 - Vision and Language
 - LL(V)M based Agent
-- GUI Video Understanding
+- GUI Understanding
 
 ## Publications at a Glance
 - <img align="left" src="/images/AssistGUI.png" width="230" height="130"/>
