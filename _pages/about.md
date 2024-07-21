@@ -27,6 +27,5 @@ redirect_from:
 <br>
 
 ## Internships
-* <img align="left" src="/images/AssistGUI.png" width="250" height="130"/>
-*from 2024.7 to present*
+* <img align="left" src="/images/tencent.png" width="230" height="40"/>   *From 2024.7 to present*
    
