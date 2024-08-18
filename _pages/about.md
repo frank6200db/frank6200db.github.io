@@ -28,7 +28,7 @@ redirect_from:
 <br>
 <br>
 
-*  <img align="left" src="/images/GUI_action_Narrator.png" width="230" height="130"/> How Visual language model can tell the action of the user in Graphic User Interface through consecutive screenshots? Available at [Link](https://github.com/showlab/GUI-Narrator).  
+*  <img align="left" src="/images/GUI_action_Narrator.png" width="230" height="130"/> **GUI Action Narrator** How Visual language model can tell the action of the user in Graphic User Interface through consecutive screenshots? Available at [Link](https://github.com/showlab/GUI-Narrator).  
 
 <br>
 <br>
