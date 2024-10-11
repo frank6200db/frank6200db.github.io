@@ -38,5 +38,5 @@ redirect_from:
 
 ## Internships
 
-* <img align="left" src="/images/tencent.png" width="230" height="40"/>   *From July 2024 to present*
+* <img align="left" src="/images/tencent.png" width="240" height="30"/>     Tencent WXG Guangzhou *From July 2024 to present*
    
