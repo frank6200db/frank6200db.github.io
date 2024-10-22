@@ -11,7 +11,7 @@ redirect_from:
 - 🎞️ Update 2023.8 Glad to join in [SHOWLAB @NUS](https://sites.google.com/view/showlab), where impressive and innovative works are been made!
 - News: July 2024 Start an internship at Tencent WXG.
 - Datasets and annotations of [GUI Action Narrator](https://arxiv.org/pdf/2406.13719) are released.
-- [*Video GUI*](https://showlab.github.io/videogui/assets/preprint.pdf) got accepted by Neurips 2024 (DB track spotlight). Congrats.
+- [*Video GUI*](https://showlab.github.io/videogui/assets/preprint.pdf) got accepted by Neurips 2024 (DB track Spotlight). Congrats.
 
 ## Research Interests
 - Vision and Language
@@ -38,5 +38,5 @@ redirect_from:
 
 ## Internships
 
-* <img align="left" src="/images/tencent.png" width="260" height="20"/>     Tencent WXG Guangzhou    *From July 2024 to present*
+* <img align="left" src="/images/tencent.png" width="290" height="20"/>     Tencent WXG Guangzhou    *From July 2024 to Nov 2024*
    
