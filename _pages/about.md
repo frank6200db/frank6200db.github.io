@@ -20,21 +20,15 @@ redirect_from:
 
 
 
-## Publications at a Glance
-*  <img align="left" src="/images/AssistGUI.png" width="230" height="130"/> *CVPR 2024 accepted paper*, **collaborator** Pioneer AI Assistant for Graphical User Interface (GUI) which can assist users in completing complex tasks, boosting human productivity. More details are available at [arxiv](https://arxiv.org/abs/2312.13108)
-<br>
-<br>
-<br>
-<br>
-<br>
+## Reseach Works
+*   *AssitGUI* (**CVPR 2024**) Pioneer AI Assistant for Graphical User Interface (GUI) which can assist users in completing complex tasks, boosting human productivity. More details are available at [arxiv](https://arxiv.org/abs/2312.13108)
 
-*  <img align="left" src="/images/GUI_action_Narrator.png" width="230" height="130"/> **GUI Action Narrator** How Visual language model can tell the action of the user in Graphic User Interface through consecutive screenshots? Available at [Link](https://github.com/showlab/GUI-Narrator).  
 
-<br>
-<br>
-<br>
-<br>
-<br>
+*  *GUI Action Narrator* How Visual language model can tell the action of the user in Graphic User Interface through consecutive screenshots? Available at [Link](https://github.com/showlab/GUI-Narrator).  
+
+
+*  *VideoGUI*  (**Neurips 2024 DB**) Evaluating Ai agent comprehensively. Available at [Link](https://showlab.github.io/videogui/assets/preprint.pdf).
+
 
 ## Internships
 
