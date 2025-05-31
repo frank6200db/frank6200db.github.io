@@ -7,7 +7,8 @@ redirect_from:
   - /about.html
 ---
 ## Welcome to my homepage! 
-- 🎓I am currently pursuing my MSc in Computer Engineering at the National University of Singapore (NUS). I completed my undergraduate degree at Nanjing University of Aeronautics and Astronautics (NUAA) from 2018 to 2022. In 2022, I had the opportunity to work as a community intern in the HUAWEI MindSpore division during my stay in Durham, UK from May 2023 to July 2023.
+- I am currently an Algorithm Engineer specializing in the pretraining and post training of large language model (LLM) and multimodal LLMs. Previously, I obtained my Master’s degree in Computer Engineering from the National University of Singapore (NUS).
+- 🎓I completed my undergraduate degree at Nanjing University of Aeronautics and Astronautics (NUAA) from 2018 to 2022. In 2022, I had the opportunity to work as a community intern in the HUAWEI MindSpore division during my stay in Durham, UK from May 2023 to July 2023.
 - 🎞️ Update 2023.8 Glad to join in [SHOWLAB @NUS](https://sites.google.com/view/showlab), where impressive and innovative works are been made!
 - News: July 2024 Start an internship at Tencent WXG.
 - Datasets and annotations of [GUI Action Narrator](https://arxiv.org/pdf/2406.13719) are released.
@@ -34,3 +35,7 @@ redirect_from:
 
 * <img align="left" src="/images/tencent.png" width="300" height="5"/>     Tencent WXG Guangzhou    *From July 2024 to Nov 2024*
    
+
+
+## Current updates 
+Served as reviewer in Neurips 25 DB track
