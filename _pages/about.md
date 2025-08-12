@@ -9,6 +9,11 @@ redirect_from:
 ## Welcome to my homepage! 
 - I am currently an Algorithm Engineer specializing in the pretraining and post training of large language model (LLM) and multimodal LLMs. Previously, I obtained my Master’s degree in Computer Engineering from the National University of Singapore (NUS).
 - 🎓I completed my undergraduate degree at Nanjing University of Aeronautics and Astronautics (NUAA) from 2018 to 2022. In 2022, I had the opportunity to work as a community intern in the HUAWEI MindSpore division during my stay in Durham, UK from May 2023 to July 2023.
+
+- Currently I am actively seeking for Phd position in 2026 fall. Here is the newly updated [**CV**](/images/qinchen_wu_cv_2025).
+
+
+
 - 🎞️ Update 2023.8 Glad to join in [SHOWLAB @NUS](https://sites.google.com/view/showlab), where impressive and innovative works are been made!
 - News: July 2024 Start an internship at Tencent WXG.
 - [*Video GUI*](https://showlab.github.io/videogui/assets/preprint.pdf) got accepted by Neurips 2024 (DB track Spotlight). Congrats.
