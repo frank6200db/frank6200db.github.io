@@ -10,7 +10,7 @@ redirect_from:
 - I am currently an Algorithm Engineer specializing in the pretraining and post training of large language model (LLM) and multimodal LLMs. Previously, I obtained my Master’s degree in Computer Engineering from the National University of Singapore (NUS).
 - 🎓I completed my undergraduate degree at Nanjing University of Aeronautics and Astronautics (NUAA) from 2018 to 2022. In 2022, I had the opportunity to work as a community intern in the HUAWEI MindSpore division during my stay in Durham, UK from May 2023 to July 2023.
 
-- Currently I am actively seeking for Phd position in 2026 fall. Here is the newly updated [**CV**](/files/qinchen_wu_cv_2025).
+- Currently I am actively seeking for Phd position in 2026 fall. Here is the newly updated [**CV**](/files/qinchen_wu_cv_2025.pdf).
 
 
 
