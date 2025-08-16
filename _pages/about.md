@@ -17,6 +17,7 @@ redirect_from:
 ## Recent Updates
 - 🎞️ Update 2023.8 Glad to join in [SHOWLAB @NUS](https://sites.google.com/view/showlab), where impressive and innovative works are been made!
 - News: July 2024 Start an internship at Tencent WXG.
+
 <!-- - [*Video GUI*](https://showlab.github.io/videogui/assets/preprint.pdf) got accepted by Neurips 2024 (DB track Spotlight). Congrats.
 - [GUI Action Narrator](https://github.com/showlab/GUI-Narrator) got accepted by ACMMM 2025. -->
 
