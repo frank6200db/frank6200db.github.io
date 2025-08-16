@@ -1,4 +1,5 @@
 ---
+layout: archive
 permalink: /
 title: Homepage
 author_profile: true
@@ -6,6 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
+<!-- layout: archive -->
 ## Welcome to my homepage! 
 - I am currently an Algorithm Engineer specializing in the pretraining and post training of large language model (LLM) and multimodal LLMs. Previously, I obtained my Master’s degree in Computer Engineering from the National University of Singapore (NUS).
 - In 2024, I was fortunate to intern with Tencent WeChat in Guangzhou.
