@@ -1,4 +1,4 @@
-[![](https://img.shields.io/badge/github-blue?logo=github)](https://github.com/frank6200db)    [![](https://img.shields.io/badge/Google_Scholar-blue?logo=google-scholar)]("https://scholar.google.com/citations?user=PcnkW94AAAAJ&hl=en")
+[![](https://img.shields.io/badge/github-blue?logo=github)](https://github.com/frank6200db)    [![](https://img.shields.io/badge/Google_Scholar-blue?logo=google-scholar)]("https://scholar.google.com/citations?user=PcnkW94AAAAJ&hl=en")     [![](https://img.shields.io/badge/Email-red?logo=gmail&logoColor=white)](qinchen.wu62@gmail.com)
 
 #### Welcome to my homepage! 
 - I am currently an Algorithm Engineer specializing in the pretraining and post training of large language model (LLM) and multimodal LLMs. Previously, I obtained my Master’s degree in Computer Engineering from the National University of Singapore (NUS).
@@ -7,8 +7,8 @@
 
 - Currently I am actively seeking for Phd position in 2026 fall. Updated [**CV**](static/assets/qinchen_wu_cv.pdf).
 
-#### Email  
-<code>qinchen.wu62@gmail.com</code>  
+<!-- #### Email  
+<code>qinchen.wu62@gmail.com</code>   -->
 
 ## Research Interests
 - Vision and Language
