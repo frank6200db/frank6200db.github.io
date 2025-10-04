@@ -7,8 +7,7 @@
 
 - Currently I am actively seeking for Phd position in 2026 fall. Updated [**CV**](static/assets/qinchen_wu_cv.pdf).
 
-<!-- #### Email  
-<code>qinchen.wu62@gmail.com</code>   -->
+
 
 <br>
 
