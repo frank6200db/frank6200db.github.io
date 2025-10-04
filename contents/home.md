@@ -46,6 +46,8 @@
     - How Visual language model narrate the learn from human demonstrations in GUI through pure vision?
 </p>
 
+<br>
+
 ## Internships
 
 <!-- * <img align="left" src="/static/assets/img/tencent.png" width="300" height="100"/>      Tencent WXG Guangzhou    *From July 2024 to Oct 2024*
@@ -57,6 +59,7 @@
     *From July 2024 to Oct 2024*
 </div>
 
+<br>
 <br>
 
 ## Academic Services 
