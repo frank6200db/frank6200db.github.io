@@ -48,9 +48,9 @@
 
 ## Internships
 
-* <img align="left" src="/static/assets/img/tencent.png" width="300" height="5"/>     Tencent WXG Guangzhou    *From July 2024 to Oct 2024*
+* <img align="left" src="/static/assets/img/tencent.png" width="300" height="100"/>      Tencent WXG Guangzhou    *From July 2024 to Oct 2024*
 
-
+<br>
 
 ## Academic Services 
 * Served as reviewer in NeurIPS 2025
