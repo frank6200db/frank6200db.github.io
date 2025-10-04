@@ -8,8 +8,7 @@
 - Currently I am actively seeking for Phd position in 2026 fall. Updated [**CV**](static/assets/qinchen_wu_cv.pdf).
 
 #### Email  
-<code>XX@XX.XX</code>  
-<code>XX@XX.XX</code>
+<code>qinchen.wu62@gmail.com</code>  
 
 ## Research Interests
 - Vision and Language
