@@ -20,7 +20,7 @@
 
 ## Research Works
 <p style="font-size: 0.9em;">
-*   [*AssitGUI*](https://arxiv.org/abs/2312.13108) (**CVPR 2024**)  Gao D, Ji L, Bai Z, Ouyang M, Li P, Mao D, <u>Wu Q</u>, Zhang W, Wang P, Guo X, Wang H.,Mike Z.
+*   [*AssistGUI*](https://arxiv.org/abs/2312.13108) (**CVPR 2024**)  Gao D, Ji L, Bai Z, Ouyang M, Li P, Mao D, <u>Wu Q</u>, Zhang W, Wang P, Guo X, Wang H.,Mike Z.
 <br>
     - Pioneer AI Assistant for Graphical User Interface (GUI) which can assist users in completing complex tasks, boosting human productivity.
 </p>
