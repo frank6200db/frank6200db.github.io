@@ -11,15 +11,27 @@
 <code>XX@XX.XX</code>  
 <code>XX@XX.XX</code>
 
-#### Education  
-**XX University**, Master of XX (XX – XX)  
-• GPA: XX/XX  
+## Research Interests
+- Vision and Language
+- LL(V)M based GUI Understanding
+- Fine-grained Understanding and Generation
 
-**XX University**, Exchange student <br>  
-• As a XX, represented my college as an outstanding student for a XX exchange program.  
+## Reseach Works
+*   [*AssitGUI*](https://arxiv.org/abs/2312.13108) (**CVPR 2024**)  Gao D, Ji L, Bai Z, Ouyang M, Li P, Mao D, <u>Wu Q</u>, Zhang W, Wang P, Guo X, Wang H.,Mike Z.
+    - Pioneer AI Assistant for Graphical User Interface (GUI) which can assist users in completing complex tasks, boosting human productivity.
+<br>
 
-**XX University**, Honours Bachelor of XX (XX – XX)  
-• GPA: XX/XX (top XX%)  
 
-#### Research Interests  
-XX, XX, XX, XX.
+*   *Harmonizing Unets* (**Computers in Biology and Medicine**) Zhuoyu Wu, <u>Qinchen Wu</u>, Wenqi Fang, Wenhui Ou, Quanjun Wang, Linde Zhang, ChaoChen, Zheng Wang
+    - Toward better fluid segmentation of noisy OCT images. 
+<br>
+
+
+*  [*VideoGUI*](https://showlab.github.io/videogui/assets/preprint.pdf)  (**Neurips 2024 DB**) Lin Kevin Qinghong, Linjie Li, Difei Gao, <u>Qinchen Wu</u>, Mingyi Yan, Zhengyuan Yang,Lijuan Wang, and Mike Zheng Shou.
+    - Evaluating Ai agent on Computer Use Tasks comprehensively. 
+<br>
+
+
+*  [*GUI Action Narrator*](https://github.com/showlab/GUI-Narrator) (**ACMMM 2025**) <u>Qinchen Wu</u>, Difei Gao, Lin Qinghong, Zhuoyu Wu, Mike Zheng Shou.
+    - How Visual language model narrate the learn from human demonstrations in GUI through pure vision?
+
