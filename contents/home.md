@@ -18,30 +18,38 @@
 
 <br>
 
-## Reseach Works
-*   [*AssitGUI*](https://arxiv.org/abs/2312.13108) (**CVPR 2024**)  Gao D, Ji L, Bai Z, Ouyang M, Li P, Mao D, <u>Wu Q</u>, Zhang W, Wang P, Guo X, Wang H.,Mike Z.
-    - Pioneer AI Assistant for Graphical User Interface (GUI) which can assist users in completing complex tasks, boosting human productivity.
+## Research Works
+<p style="font-size: 0.9em;">
+*   [*AssitGUI*](https://arxiv.org/abs/2312.13108) (**CVPR 2024**)  Gao D, Ji L, Bai Z, Ouyang M, Li P, Mao D, <u>Wu Q</u>, Zhang W, Wang P, Guo X, Wang H.,Mike Z.
+<br>
+    - Pioneer AI Assistant for Graphical User Interface (GUI) which can assist users in completing complex tasks, boosting human productivity.
+</p>
 <br>
 
-
-*   *Harmonizing Unets* (**Computers in Biology and Medicine**) Zhuoyu Wu, <u>Qinchen Wu</u>, Wenqi Fang, Wenhui Ou, Quanjun Wang, Linde Zhang, ChaoChen, Zheng Wang
-    - Toward better fluid segmentation of noisy OCT images. 
+<p style="font-size: 0.9em;">
+*   *Harmonizing Unets* (**Computers in Biology and Medicine**) Zhuoyu Wu, <u>Qinchen Wu</u>, Wenqi Fang, Wenhui Ou, Quanjun Wang, Linde Zhang, ChaoChen, Zheng Wang
+<br>
+    - Toward better fluid segmentation of noisy OCT images. 
+</p>
 <br>
 
-
-*  [*VideoGUI*](https://showlab.github.io/videogui/assets/preprint.pdf)  (**Neurips 2024 DB**) Lin Kevin Qinghong, Linjie Li, Difei Gao, <u>Qinchen Wu</u>, Mingyi Yan, Zhengyuan Yang,Lijuan Wang, and Mike Zheng Shou.
-    - Evaluating Ai agent on Computer Use Tasks comprehensively. 
+<p style="font-size: 0.9em;">
+*  [*VideoGUI*](https://showlab.github.io/videogui/assets/preprint.pdf)  (**Neurips 2024 DB**) Lin Kevin Qinghong, Linjie Li, Difei Gao, <u>Qinchen Wu</u>, Mingyi Yan, Zhengyuan Yang,Lijuan Wang, and Mike Zheng Shou.
+<br>
+    - Evaluating Ai agent on Computer Use Tasks comprehensively. 
+</p>
 <br>
 
-
-*  [*GUI Action Narrator*](https://github.com/showlab/GUI-Narrator) (**ACMMM 2025**) <u>Qinchen Wu</u>, Difei Gao, Lin Qinghong, Zhuoyu Wu, Mike Zheng Shou.
-    - How Visual language model narrate the learn from human demonstrations in GUI through pure vision?
-
-
+<p style="font-size: 0.9em;">
+*  [*GUI Action Narrator*](https://github.com/showlab/GUI-Narrator) (**ACMMM 2025**) <u>Qinchen Wu</u>, Difei Gao, Lin Qinghong, Zhuoyu Wu, Mike Zheng Shou.
+<br>
+    - How Visual language model narrate the learn from human demonstrations in GUI through pure vision?
+</p>
 
 ## Internships
 
 * <img align="left" src="/static/assets/img/tencent.png" width="300" height="5"/>     Tencent WXG Guangzhou    *From July 2024 to Oct 2024*
+
 
 
 ## Academic Services 
