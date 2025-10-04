@@ -10,10 +10,14 @@
 <!-- #### Email  
 <code>qinchen.wu62@gmail.com</code>   -->
 
+<br>
+
 ## Research Interests
 - Vision and Language
 - LL(V)M based GUI Understanding
 - Fine-grained Understanding and Generation
+
+<br>
 
 ## Reseach Works
 *   [*AssitGUI*](https://arxiv.org/abs/2312.13108) (**CVPR 2024**)  Gao D, Ji L, Bai Z, Ouyang M, Li P, Mao D, <u>Wu Q</u>, Zhang W, Wang P, Guo X, Wang H.,Mike Z.
@@ -34,3 +38,12 @@
 *  [*GUI Action Narrator*](https://github.com/showlab/GUI-Narrator) (**ACMMM 2025**) <u>Qinchen Wu</u>, Difei Gao, Lin Qinghong, Zhuoyu Wu, Mike Zheng Shou.
     - How Visual language model narrate the learn from human demonstrations in GUI through pure vision?
 
+
+
+## Internships
+
+* <img align="left" src="/static/assets/img/tencent.png" width="300" height="5"/>     Tencent WXG Guangzhou    *From July 2024 to Oct 2024*
+
+
+## Academic Services 
+* Served as reviewer in NeurIPS 2025
