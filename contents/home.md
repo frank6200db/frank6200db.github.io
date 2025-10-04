@@ -1,6 +1,4 @@
-[![XX](https://img.shields.io/badge/XX-github-blue?logo=github)](https://github.com/frank6200db)
-
-[![XX](https://img.shields.io/badge/XX-Google_Scholar-blue?logo=google-scholar)]("https://scholar.google.com/citations?user=PcnkW94AAAAJ&hl=en")
+[![](https://img.shields.io/badge/github-blue?logo=github)](https://github.com/frank6200db)    [![](https://img.shields.io/badge/Google_Scholar-blue?logo=google-scholar)]("https://scholar.google.com/citations?user=PcnkW94AAAAJ&hl=en")
 
 #### Welcome to my homepage! 
 - I am currently an Algorithm Engineer specializing in the pretraining and post training of large language model (LLM) and multimodal LLMs. Previously, I obtained my Master’s degree in Computer Engineering from the National University of Singapore (NUS).
