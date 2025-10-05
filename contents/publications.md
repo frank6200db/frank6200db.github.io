@@ -11,7 +11,7 @@
         <i><a href="https://github.com/showlab/GUI-Narrator">GUI Action Narrator</a></i> 
         (<b>ACMMM 2025</b>)  <u>Qinchen Wu</u>, Difei Gao, Lin Qinghong, Zhuoyu Wu, Mike Zheng Shou.
         <div style="padding-left: 20px;">
-            How Visual language model narrate the learn from human demonstrations in GUI through pure vision?
+            How Visual Language Model narrate actions and learn from human demonstrations through pure vision.
         </div>
     </li>
 </ul>
