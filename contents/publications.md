@@ -35,7 +35,7 @@
 
 <ul style="font-size: 0.8em; padding-right: 0">
     <li>
-        <i>Harmonizing Unets </i>(<b>Computers in Biology and Medicine</b>) Zhuoyu Wu, <u>Qinchen Wu</u>, Wenqi Fang, Wenhui Ou, Quanjun Wang, Linde Zhang, ChaoChen, Zheng Wang
+        <i>Harmonizing Unets </i>(<b>Computers in Biology and Medicine</b>) Zhuoyu W, <u>Qinchen W</u>, Wenqi F., Wenhui O, Quanjun W, Linde Z, ChaoChen, Zheng W.
         <div style="padding-left: 20px;">
             Toward better fluid segmentation of noisy OCT images.
         </div>
