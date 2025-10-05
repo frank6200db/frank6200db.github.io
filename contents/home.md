@@ -19,6 +19,18 @@
 <br>
 
 ## Research Works
+<!-- <ul style="font-size: 0.8em; padding-right: 0">
+    <li>
+        <div style="display: flex; align-items: flex-start; margin-bottom: 10px;">
+            <img src="/static/assets/img/photo.jpg" alt="Paper Icon" width="200" height="90" style="margin-left: 10px; flex-shrink: 0;">
+        <div>
+        <i><a href="https://arxiv.org/abs/2312.13108">AssistGUI</a></i> 
+        (<b>CVPR 2024</b>) Gao D, Ji L, Bai Z, Ouyang M, Li P, Mao D, <u>Wu Q</u>, Zhang W, Wang P, Guo X, Wang H.,Mike Z.
+        <div style="padding-left: 20px;">
+            Pioneer AI Assistant for Graphical User Interface (GUI) which can assist users in completing complex tasks, boosting human productivity.
+        </div>
+    </li>
+</ul> -->
 <ul style="font-size: 0.8em; padding-right: 0">
     <li>
         <i><a href="https://arxiv.org/abs/2312.13108">AssistGUI</a></i> 
