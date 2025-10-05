@@ -73,7 +73,7 @@
 <div style="text-align: right;">
     <img align="left" src="/static/assets/img/tencent.png" width="300" height="70"/> 
     Tencent WXG Guangzhou 
-    *From July 2024 to Oct 2024*
+    <i> From July 2024 to Oct 2024</i>
 </div>
 
 <br>
