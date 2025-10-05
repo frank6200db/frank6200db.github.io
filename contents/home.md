@@ -19,42 +19,59 @@
 <br>
 
 ## Research Works
-<p style="font-size: 0.9em;">
-*   [*AssistGUI*](https://arxiv.org/abs/2312.13108) (**CVPR 2024**)  Gao D, Ji L, Bai Z, Ouyang M, Li P, Mao D, <u>Wu Q</u>, Zhang W, Wang P, Guo X, Wang H.,Mike Z.
-<br>
-    - Pioneer AI Assistant for Graphical User Interface (GUI) which can assist users in completing complex tasks, boosting human productivity.
-</p>
+<ul style="font-size: 0.8em; padding-right: 0">
+    <li>
+        <i><a href="https://arxiv.org/abs/2312.13108">AssistGUI</a></i> 
+        (<b>CVPR 2024</b>) Gao D, Ji L, Bai Z, Ouyang M, Li P, Mao D, <u>Wu Q</u>, Zhang W, Wang P, Guo X, Wang H.,Mike Z.
+        <div style="padding-left: 20px;">
+            Pioneer AI Assistant for Graphical User Interface (GUI) which can assist users in completing complex tasks, boosting human productivity.
+        </div>
+    </li>
+</ul>
+
 <br>
 
-<p style="font-size: 0.9em;">
-*   *Harmonizing Unets* (**Computers in Biology and Medicine**) Zhuoyu Wu, <u>Qinchen Wu</u>, Wenqi Fang, Wenhui Ou, Quanjun Wang, Linde Zhang, ChaoChen, Zheng Wang
-<br>
-    - Toward better fluid segmentation of noisy OCT images. 
-</p>
+
+<ul style="font-size: 0.8em; padding-right: 0">
+    <li>
+        <i>Harmonizing Unets </i>(<b>Computers in Biology and Medicine</b>) Zhuoyu Wu, <u>Qinchen Wu</u>, Wenqi Fang, Wenhui Ou, Quanjun Wang, Linde Zhang, ChaoChen, Zheng Wang
+        <div style="padding-left: 20px;">
+            Toward better fluid segmentation of noisy OCT images.
+        </div>
+    </li>
+</ul>
 <br>
 
-<p style="font-size: 0.9em;">
-*  [*VideoGUI*](https://showlab.github.io/videogui/assets/preprint.pdf)  (**Neurips 2024 DB**) Lin Kevin Qinghong, Linjie Li, Difei Gao, <u>Qinchen Wu</u>, Mingyi Yan, Zhengyuan Yang,Lijuan Wang, and Mike Zheng Shou.
-<br>
-    - Evaluating Ai agent on Computer Use Tasks comprehensively. 
-</p>
+
+<ul style="font-size: 0.8em; padding-right: 0">
+    <li>
+        <i><a href="https://showlab.github.io/videogui/assets/preprint.pdf">VideoGUI</a></i> 
+        (<b>Neurips 2024 DB</b>) Lin Kevin Qinghong, Linjie Li, Difei Gao, <u>Qinchen Wu</u>, Mingyi Yan, Zhengyuan Yang,Lijuan Wang, and Mike Zheng Shou.
+        <div style="padding-left: 20px;">
+            Evaluating Ai agent on Computer Use Tasks comprehensively. 
+        </div>
+    </li>
+</ul>
+
 <br>
 
-<p style="font-size: 0.9em;">
-*  [*GUI Action Narrator*](https://github.com/showlab/GUI-Narrator) (**ACMMM 2025**) <u>Qinchen Wu</u>, Difei Gao, Lin Qinghong, Zhuoyu Wu, Mike Zheng Shou.
-<br>
-    - How Visual language model narrate the learn from human demonstrations in GUI through pure vision?
-</p>
+<ul style="font-size: 0.8em; padding-right: 0">
+    <li>
+        <i><a href="https://github.com/showlab/GUI-Narrator">GUI Action Narrator</a></i> 
+        (<b>ACMMM 2025</b>)  <u>Qinchen Wu</u>, Difei Gao, Lin Qinghong, Zhuoyu Wu, Mike Zheng Shou.
+        <div style="padding-left: 20px;">
+            How Visual language model narrate the learn from human demonstrations in GUI through pure vision?
+        </div>
+    </li>
+</ul>
 
 <br>
 
 ## Internships
 
-<!-- * <img align="left" src="/static/assets/img/tencent.png" width="300" height="100"/>      Tencent WXG Guangzhou    *From July 2024 to Oct 2024*
- -->
 
 <div style="text-align: right;">
-    <img align="left" src="/static/assets/img/tencent.png" width="300" height="100"/> 
+    <img align="left" src="/static/assets/img/tencent.png" width="300" height="70"/> 
     Tencent WXG Guangzhou 
     *From July 2024 to Oct 2024*
 </div>
