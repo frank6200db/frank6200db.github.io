@@ -20,8 +20,8 @@
 ## Interests
 - I'm also a huge RTS gaming fan, and StarCraft II is my favorite. 🎮
 <div style="text-align: right;">
-    <img align="left" src="/static/assets/img/Diamond_League.png" width="100" height="50"/> 
-    <i> I'm also a huge RTS gaming fan, and StarCraft II is my favorite. 🎮</i>
+    <img align="left" src="/static/assets/img/Diamond_League.png" width="150" height="100"/> 
+    <i> Diamond league </i>
 </div>
 
 
