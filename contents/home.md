@@ -14,7 +14,7 @@
 ## Research Interests & Ongoing Research
 - Vision and Language
 - GUI Automation, Agent Planning
-- End-2-End LLMs, Tokenize free Language Models
+- LLM compression, LLM reasoning
 
 <br>
 
