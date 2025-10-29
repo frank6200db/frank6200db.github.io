@@ -8,7 +8,7 @@
 
 <ul style="font-size: 0.8em; padding-right: 0">
     <li>
-        <i><a href="https://github.com/showlab/GUI-Narrator">GUI Action Narrator</a></i> 
+        <i><a href="https://dl.acm.org/doi/abs/10.1145/3746027.3755150">GUI Action Narrator</a></i> 
         (<b>ACMMM 2025</b>)  <u>Qinchen Wu</u>, Difei Gao, Lin Qinghong, Zhuoyu Wu, Mike Zheng Shou.
         <div style="padding-left: 20px;">
             How Visual Language Model narrate actions and learn from human demonstrations through pure vision.
