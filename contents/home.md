@@ -12,9 +12,9 @@
 <br>
 
 ## Research Interests & Ongoing Research
-- Vision and Language
-- GUI Automation, Agent Planning
-- LLM compression, LLM reasoning
+- Vision and Language, GUI Automation
+- Memory optimization, Reasoning
+
 
 <br>
 
