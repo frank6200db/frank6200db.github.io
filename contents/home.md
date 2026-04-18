@@ -14,7 +14,7 @@
 ## Research
 I work on LLMs and Vision. My research interests include:
 - Vision and Language understanding ([GUI Narrator ACMMM'25]("https://dl.acm.org/doi/abs/10.1145/3746027.3755150")), Computer Use agent automation.
-- LLM memory optimization.
+- LLM memory optimization (Test Time Training), memory in RL.
 
 
 <br>
