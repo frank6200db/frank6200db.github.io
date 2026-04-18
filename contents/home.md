@@ -1,6 +1,6 @@
 [![](https://img.shields.io/badge/github-blue?logo=github)](https://github.com/frank6200db)    [![](https://img.shields.io/badge/Google_Scholar-blue?logo=google-scholar)]("https://scholar.google.com/citations?user=PcnkW94AAAAJ&hl=en")     [![](https://img.shields.io/badge/Email-red?logo=gmail&logoColor=white)](qinchen.wu62@gmail.com)
 
-#### Welcome to my homepage! 
+#### Biography
 - I am currently an Algorithm Engineer specializing in the pretraining and post training of large language model (LLM) and multimodal LLMs. Previously, I obtained my Master’s degree in Computer Engineering from the National University of Singapore (NUS).
 - In 2024, I was fortunate to intern with Tencent WeChat in Guangzhou.
 - 🎓I completed my undergraduate degree at Nanjing University of Aeronautics and Astronautics (NUAA) in 2022. 
@@ -11,9 +11,10 @@
 
 <br>
 
-## Research Interests & Ongoing Research
-- Vision and Language, GUI Automation
-- Memory optimization, Reasoning
+## Research
+I work on LLMs and Vision. My research interests include:
+- Vision and Language understanding ([GUI Narrator ACMMM'25]("https://dl.acm.org/doi/abs/10.1145/3746027.3755150")), Computer Use agent automation.
+- LLM memory optimization.
 
 
 <br>
